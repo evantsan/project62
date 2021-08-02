@@ -1,0 +1,51 @@
+.uld {
+    list-style: none;
+    position: fixed;
+    justify-content: center;
+    display: flex;
+}
+
+.link3{
+     float: left;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Electrolize', sans-serif;
+    z-index: 1000000;
+}
+.link3:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+img{
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+}
+#hme{
+    height: 600px;
+    width:800px;
+}
+.link3 a{
+    color: black;
+    text-decoration:none;
+
+}
+.link3 a:hover {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    text-decoration:none;
+}
+html{
+    scroll-behavior: smooth;
+}
+.car{
+    height: 600px;
+    width: 700px;
+}
+.mn p{
+    padding-top: 200px;
+    font-size: 22px;
+}
